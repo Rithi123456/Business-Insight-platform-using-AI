@@ -1,7 +1,5 @@
 streamlit==1.22.0
 google-generativeai==0.2.1
 Pillow==8.4.0
-google.generativeai  
-speech_recognition
-googletrans
-googletrans 
+google.generativeai 
+ 
